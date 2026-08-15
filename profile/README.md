@@ -8,6 +8,9 @@ When a compromised dependency tries to exfiltrate secrets or phone home mid-buil
 it: only the destinations you allow are reachable. It runs entirely inside your GitHub Actions job —
 no external service, no telemetry, free and open source.
 
+**[buildcage.github.io](https://buildcage.github.io/)** — what it does, what changes in your build,
+and how it compares to the alternatives.
+
 ## Which one do I use?
 
 | | Use this when |
