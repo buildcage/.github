@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Buildcage" width="600">
-</p>
+![Buildcage](banner.png)
 
 **Restrict outbound network access during CI builds to an allowlist of domains.**
 
