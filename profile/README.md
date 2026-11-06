@@ -13,7 +13,7 @@ and how it compares to the alternatives.
 
 | | Use this when |
 | --- | --- |
-| [**Buildcage for Docker**](https://github.com/buildcage/docker) | You build a Docker image. Every `RUN` step is isolated, with no Dockerfile changes. |
-| [**Buildcage for `run:` Steps**](https://github.com/buildcage/isolated-run) | You run a command directly in a workflow step — `npm install`, a test suite, a build script. |
+| [**buildcage/docker**](https://github.com/buildcage/docker) | You build a Docker image. Every `RUN` step is isolated, with no Dockerfile changes. |
+| [**buildcage/isolated-run**](https://github.com/buildcage/isolated-run) | You run a command directly in a workflow step — `npm install`, a test suite, a build script. |
 
 Each repository has its own setup guide, parameter reference, and security details.
